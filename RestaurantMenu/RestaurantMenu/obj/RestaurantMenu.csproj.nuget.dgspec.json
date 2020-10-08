@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sam\\Desktop\\LC101\\csharp-practice\\3-classes-part-1\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj": {}
+    "C:\\Users\\Sam\\OneDrive\\Desktop\\LC101\\csharp-practice\\3-classes-part-1\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sam\\Desktop\\LC101\\csharp-practice\\3-classes-part-1\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj": {
+    "C:\\Users\\Sam\\OneDrive\\Desktop\\LC101\\csharp-practice\\3-classes-part-1\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam\\Desktop\\LC101\\csharp-practice\\3-classes-part-1\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj",
+        "projectUniqueName": "C:\\Users\\Sam\\OneDrive\\Desktop\\LC101\\csharp-practice\\3-classes-part-1\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj",
         "projectName": "RestaurantMenu",
-        "projectPath": "C:\\Users\\Sam\\Desktop\\LC101\\csharp-practice\\3-classes-part-1\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj",
+        "projectPath": "C:\\Users\\Sam\\OneDrive\\Desktop\\LC101\\csharp-practice\\3-classes-part-1\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam\\Desktop\\LC101\\csharp-practice\\3-classes-part-1\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu\\obj\\",
+        "outputPath": "C:\\Users\\Sam\\OneDrive\\Desktop\\LC101\\csharp-practice\\3-classes-part-1\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config",
