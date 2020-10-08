@@ -26,26 +26,52 @@ namespace RestaurantMenu
             this.menuItems.Remove(deleteItem);
         }
 
-        public string IsNewItem(MenuItem item)
+        public void IsNewItem(MenuItem item)
         {
             if (item.newItem == true)
             {
-                return "The " + item.description + " is new to our menu!";
+                Console.WriteLine("The " + item.description + " is new to our menu!");
             } else
             {
-                return "The " + item.description + " is not a new item. It's one of our delicious favorites.";
+                Console.WriteLine("The " + item.description + " is not a new item. It's one of our delicious favorites.");
             }
         }
 
-        public string MenuLastUpdated(Menu menu)
+        public void MenuLastUpdated()
         {
-            return "Our menu was last updated on: " + menu.lastUpdated;
+            Console.WriteLine("Our menu was last updated on: " + this.lastUpdated.ToString("d"));
         }
 
-        public string PrintSingleItem(MenuItem item)
+        public void PrintSingleItem(MenuItem item)
         {
-            return "Item Name: " + item.description + "\nItem Price: " + item.price + "\nItem Course: " + item.category +
-                "\nDate Added to Menu: " + item.dateAdded.ToString("d");
+            Console.WriteLine("Item Name: " + item.description + "\nItem Price: " + item.price + "\nItem Course: " + item.category +
+                "\nDate Added to Menu: " + item.dateAdded.ToString("d"));
+        }
+
+        public void PrintMenu()
+        {
+            Console.WriteLine("Appetizers:\n");
+            
+            foreach (MenuItem item in this.menuItems) if (item.category == "Appetizer")
+            {
+                 Console.WriteLine("*****\nItem Name: " + item.description + "\nItem Price: " + item.price + "\n");
+            }
+
+            Console.WriteLine("*****\nMain Courses:\n");
+
+            foreach (MenuItem item in this.menuItems) if (item.category == "Main Course")
+            {
+                  Console.WriteLine("*****\nItem Name: " + item.description + "\nItem Price: " + item.price + "\n");
+            }
+
+            Console.Write("*****\nDesserts:\n\n");
+
+            foreach(MenuItem item in this.menuItems) if (item.category == "Dessert")
+            {
+                  Console.WriteLine("*****\nItem Name: " + item.description + "\nItem Price: " + item.price + "\n");
+            }
+
+            Console.WriteLine("Menu last updated: " + this.lastUpdated.ToString("d"));
         }
     }
 }

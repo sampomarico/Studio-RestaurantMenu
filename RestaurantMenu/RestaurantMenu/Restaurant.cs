@@ -17,7 +17,7 @@ namespace RestaurantMenu
             List<MenuItem> items = new List<MenuItem> { fillet, bakedPotato, iceCream, roastChicken, houseSalad, cremeBrulee };
             Menu dinnerMenu = new Menu(items);
 
-            
+            dinnerMenu.MenuLastUpdated();
 
             
 
