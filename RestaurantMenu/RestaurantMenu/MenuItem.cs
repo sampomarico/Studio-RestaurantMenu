@@ -21,6 +21,25 @@ namespace RestaurantMenu
             this.newItem = newItem;
         }
 
+        public override bool Equals(Object obj)
+        {
+            if (obj == this)
+            {
+                return true;
+            }
+            if (obj == null)
+            {
+                return false;
+            }
+            if (obj.GetType() != this.GetType())
+            {
+                return false;
+            }
+
+            MenuItem item = obj as MenuItem;
+            return item.description == description;
+        }
+
     }
 
 }

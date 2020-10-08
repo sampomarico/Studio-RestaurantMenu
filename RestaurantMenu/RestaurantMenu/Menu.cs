@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
@@ -18,6 +19,11 @@ namespace RestaurantMenu
 
         public void AddItem(MenuItem newItem)
         {
+            if (this.menuItems.Contains(newItem))
+            {
+                Console.WriteLine("Item already on menu.");
+                return;
+            }
             this.menuItems.Add(newItem);
         }
 

@@ -17,7 +17,16 @@ namespace RestaurantMenu
             List<MenuItem> items = new List<MenuItem> { fillet, bakedPotato, iceCream, roastChicken, houseSalad, cremeBrulee };
             Menu dinnerMenu = new Menu(items);
 
-            dinnerMenu.MenuLastUpdated();
+            //Print Entire Menu
+            //dinnerMenu.PrintMenu();
+
+            //Print Individual Item
+                //dinnerMenu.PrintSingleItem(cremeBrulee);
+            
+            
+           //Remove Item and the Print Menu
+                //dinnerMenu.RemoveItem(bakedPotato);
+                //dinnerMenu.PrintMenu();
 
             
 
