@@ -6,13 +6,13 @@ namespace RestaurantMenu
 {
     class MenuItem
     {
-        private double price;
-        private string description;
-        private string category;
-        private DateTime dateAdded = new DateTime();
-        private Boolean newItem;
+        public string price { get; set; }
+        public string description { get; set; }
+        public string category { get; set; }
+        public DateTime dateAdded { get; set; }
+        public Boolean newItem { get; set; }
 
-        public MenuItem(double price, string description, string category, DateTime dateAdded, Boolean newItem)
+        public MenuItem(string price, string description, string category, DateTime dateAdded, Boolean newItem)
         {
             this.price = price;
             this.description = description;
@@ -21,11 +21,6 @@ namespace RestaurantMenu
             this.newItem = newItem;
         }
 
-        public double Price { get; set; }
-        public string Description { get; set; }
-        public string[] Category { get; set; }
-        public DateTime DateAdded { get; set; }
-        public Boolean NewItem { get; set; }
     }
 
 }

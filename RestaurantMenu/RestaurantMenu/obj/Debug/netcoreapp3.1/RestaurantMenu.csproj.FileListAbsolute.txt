@@ -1,0 +1,13 @@
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.AssemblyInfo.cs
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.exe
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.deps.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.runtimeconfig.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\3-classes-part-1\RestaurantMenu\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.genruntimeconfig.cache
